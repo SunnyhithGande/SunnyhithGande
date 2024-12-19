@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm SunnyhithGande</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Java**
+👋 Hi there!
+🌱 I’m on a journey to master Java! 🚀
+💻 Exploring the world of OOP, data structures, algorithms, and design patterns.
+📘 Always learning something new — currently diving into Spring Boot, multithreading, and JVM internals.
+✨ I believe in writing clean, efficient, and maintainable code.
 
-- 📫 How to reach me **gsunnyhith@gmail.com**
+👀 What I’m up to:
 
-- ⚡ Fun fact **I think I am funny**
+Building small projects to sharpen my Java skills. 🛠️
+Solving coding challenges on platforms like HackerRank and LeetCode. 📈
+Collaborating with fellow developers to learn and grow together. 🤝
+📫 Let’s connect and share ideas — because learning is more fun together! 🎉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

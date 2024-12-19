@@ -3,8 +3,11 @@
 
 👋 Hi there!
 🌱 I’m on a journey to master Java! 🚀
+
 💻 Exploring the world of OOP, data structures, algorithms, and design patterns.
+
 📘 Always learning something new — currently diving into Spring Boot, multithreading, and JVM internals.
+
 ✨ I believe in writing clean, efficient, and maintainable code.
 
 👀 What I’m up to:

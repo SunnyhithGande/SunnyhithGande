@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm SunnyhithGande</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 👋 Hi there!
 🌱 I’m on a journey to master Java! 🚀
 

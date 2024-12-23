@@ -8,7 +8,7 @@
 
 📘 Always learning something new — currently diving into Spring Boot, multithreading, and JVM internals.
 
-✨ I believe in writing clean, efficient, and maintainable code.
+✨ I believe in writing clean, efficient, Optimized and maintainable code.
 
 👀 What I’m up to:
 

@@ -4,7 +4,7 @@
 
 🌱 I’m on a journey to master Java! 🚀
 
-💻 Exploring the world of OOP, data structures, algorithms, and design patterns.
+💻 Exploring the world of OOPS, data structures, algorithms, and design patterns.
 
 📘 Always learning something new — currently diving into Spring Boot, multithreading, and JVM internals.
 

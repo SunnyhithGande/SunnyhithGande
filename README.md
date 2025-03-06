@@ -19,7 +19,6 @@ Collaborating with fellow developers to learn and grow together. 🤝
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>" title="instagram icons">Instagram icons created by Grow studio - Flaticon</a>" alt="sunnyhithgande" height="30" width="40" /></a>
 <a href="https://instagram.com/sunnyhithh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunnyhithh" height="30" width="40" /></a>
 </p>
 
